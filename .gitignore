@@ -1,0 +1,22 @@
+# Project exclude paths
+/105-cloud-20191102-feign-consumer/target/
+/105-cloud-20191202-common/target/
+/105-cloud-20191202-config/target/
+/105-cloud-20191202-config2/target/
+/105-cloud-20191202-eureka/target/
+/105-cloud-20191202-eureka2/target/
+/105-cloud-20191202-provider/target/
+/105-cloud-20191202-ribbon-consumer/target/
+/105-cloud-20191202-zuull/target/
+
+
+# Idea
+.idea
+*.iws
+*.iml
+*/*.iml
+*.ipr
+
+.settings
+.classpath
+.project
